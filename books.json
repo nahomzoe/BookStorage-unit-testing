@@ -1,0 +1,62 @@
+[
+  {
+    "bookNumber": 1,
+    "bookname": "Rebellion of Sophie Q. Lister",
+    "author": "Felix Harris",
+    "price": 25,
+    "pages": 500,
+    "genres": ["fiction", "textbook", "chronic"],
+    "info": {
+      "edition": "seventh edition",
+      "booktype": "hardcover",
+      "notes": "first folio"
+    }
+  },
+  {
+    "bookNumber": 2,
+    "bookname": "Maria and My",
+    "author": "Layla Jones",
+    "price": 123,
+    "pages": 100,
+    "genres": ["humorous essay", "chronic", "fiction"],
+    "info": {
+      "edition": "sixth edition",
+      "booktype": "pocketbook",
+      "notes": "-"
+    }
+  },
+  {
+    "bookNumber": 3,
+    "bookname": "SQL-mysteries",
+    "author": "Emily White",
+    "price": 200,
+    "pages": 3420,
+    "genres": ["poem", "nonfiction", "short story"],
+    "info": {
+      "edition": "first edition",
+      "booktype": "print-on-demand",
+      "notes": "special edition"
+    }
+  },
+  {
+    "bookNumber": 4,
+    "bookname": "The adventures of Mike the Millipede",
+    "author": "Emily White",
+    "price": 36,
+    "pages": 3420,
+    "genres": ["fiction", "short story", "poem"],
+    "info": {
+      "edition": "fourth edition",
+      "booktype": "leaflet",
+      "notes": "no comments"
+    }
+  },
+  {
+    "bookNumber": 5,
+    "bookname": "The adventures of Mike the Millipede",
+    "author": "Layla Jones",
+    "price": 25,
+    "pages": 3420,
+    "genres": ["chronic", "short story", "fiction"]
+  }
+]
