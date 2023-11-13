@@ -13,3 +13,4 @@ console.log("has info", bookStorage.has_Info(2)); // true
 // console.log("book found", bookStorage.get_All_books_By_author());
 // console.log("book found", bookStorage.get_a_book_matching_bookNumber(40));
 // console.log("book info", bookStorage.get_info(3));
+// console.log("Example")
